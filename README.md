@@ -17,6 +17,8 @@ This is an online webstore implementation made using PHP, HTML, Bootstrap stylin
 * Can search by item name via search bar
 * Can create an account
 
+## Images of the webstore
+
 ![](screenshots/search.png)
 
 ![](screenshots/orderHistory.png)
